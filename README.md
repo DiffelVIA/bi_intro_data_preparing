@@ -1,0 +1,1 @@
+This project is a copy of Gabriel's project published in Kaggle: https://www.kaggle.com/code/gpreda/data-quality-on-a-data-quality-dataset#Normalize-residence. All credits to Gabriel Preda. This is only to practice and improve my skills with data.
